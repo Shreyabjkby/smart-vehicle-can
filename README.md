@@ -23,7 +23,7 @@ This project demonstrates a **Smart Vehicle Communication System** using the **C
 
  1. MCP2515 CAN Bus Module to Arduino Uno
 
- -V CC -> 5V (Arduino Uno)
+ - VCC -> 5V (Arduino Uno)
  - GND -> GND (Arduino Uno)
  - CS -> Pin 10 (Arduino Uno)
  - SCK -> Pin 13 (Arduino Uno)
