@@ -23,32 +23,32 @@ This project demonstrates a **Smart Vehicle Communication System** using the **C
 
  1. MCP2515 CAN Bus Module to Arduino Uno
 
- -VCC -> 5V (Arduino Uno)
- -GND -> GND (Arduino Uno)
- -CS -> Pin 10 (Arduino Uno)
- -SCK -> Pin 13 (Arduino Uno)
- -MOSI -> Pin 11 (Arduino Uno)
- -MISO -> Pin 12 (Arduino Uno)
- -INT -> Pin 2 (Arduino Uno)
+ -V CC -> 5V (Arduino Uno)
+ - GND -> GND (Arduino Uno)
+ - CS -> Pin 10 (Arduino Uno)
+ - SCK -> Pin 13 (Arduino Uno)
+ - MOSI -> Pin 11 (Arduino Uno)
+ - MISO -> Pin 12 (Arduino Uno)
+ - INT -> Pin 2 (Arduino Uno)
  
  2. DHT11/DHT22 Sensor to Arduino Uno
 
- -VCC -> 5V (Arduino Uno)
- -GND -> GND (Arduino Uno)
- -Data -> Pin 8 (Arduino Uno)
+ - VCC -> 5V (Arduino Uno)
+ - GND -> GND (Arduino Uno)
+ - Data -> Pin 8 (Arduino Uno)
  
  3. I2C LCD to Arduino Uno
 
- -VCC -> 5V (Arduino Uno)
- -GND -> GND (Arduino Uno)
- -SDA -> SDA (Arduino Uno)
- -SCL -> SCL (Arduino Uno)
+ - VCC -> 5V (Arduino Uno)
+ - GND -> GND (Arduino Uno)
+ - SDA -> SDA (Arduino Uno)
+ - SCL -> SCL (Arduino Uno)
  
  Libraries Used
 
- -mcp2515: For interfacing with the MCP2515 CAN Bus module.
- -DHT Sensor Library: For reading data from the DHT sensor.
- -LiquidCrystal_I2C: For controlling the I2C LCD display.
+ - mcp2515: For interfacing with the MCP2515 CAN Bus module.
+ - DHT Sensor Library: For reading data from the DHT sensor.
+ - LiquidCrystal_I2C: For controlling the I2C LCD display.
 
 
 
